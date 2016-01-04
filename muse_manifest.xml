@@ -1,0 +1,15 @@
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sarakaandorp.github.io" resolutions="1x" timestamp="1451927426552">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="333557652" ref="index"/>
+    <file name="iefonts_index.css" crc="39320450" ref="index"/>
+    <file name="project-1.css" crc="112180619" ref="project-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:project-1"/>
+    <file name="museutils.js" crc="334180058" ref="index:project-1"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:project-1"/>
+  </folder>
+  <file name="index.html" crc="508136027" seo="true" mt="1451927214341" redirect="true"/>
+  <file name="project-1.html" crc="3798002864" seo="true" mt="1451925321091" redirect="false"/>
+</manifest>
